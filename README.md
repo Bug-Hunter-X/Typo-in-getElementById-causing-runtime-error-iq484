@@ -1,0 +1,1 @@
+This repository demonstrates a subtle yet common error in JavaScript when interacting with HTML elements. The bug involves a simple typo in the getElementById method, which is frequently used to manipulate elements within an HTML document. The solution shows how to correctly access and modify the innerHTML property of an HTML element.
